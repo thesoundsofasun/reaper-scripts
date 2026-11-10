@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="AEHAZE Scripts" commit="11650ef76b7dea7eb6912c92d3b158582cb28f6d">
+<index version="1" name="AEHAZE Scripts" commit="2055d100f4425ac4384322dfcc5da4d04fe08222">
   <category name="Items">
-    <reapack name="Stretch selected media items by x0.5.lua" type="script" desc="STRETCH ITEM (DOUBLE LENGTH / HALF SPEED)">
+    <reapack name="Stretch selected media items by x0.5.lua" type="script" desc="STRETCH ITEM (HALF LENGTH / DOUBLE SPEED)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This script halves the length of the selected item and doubles its playback speed. Pitch is preserved if "Preserve Pitch" is enabled in Item Propertiess\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="AEHAZE Scripts" time="2026-11-10T13:29:26Z">
+        <source main="main">https://github.com/thesoundsofasun/reaper-scripts/raw/1ec7c84fe2354d127f0e8c5bb91352315a821650/Items/Stretch%20selected%20media%20items%20by%20x0.5.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Stretch selected media items by x2.lua" type="script" desc="STRETCH ITEM (DOUBLE LENGTH / HALF SPEED)">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -11,8 +25,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0.0" author="AEHAZE Scripts" time="2026-11-10T13:29:26Z">
-        <source main="main">https://github.com/thesoundsofasun/reaper-scripts/raw/1ec7c84fe2354d127f0e8c5bb91352315a821650/Items/Stretch%20selected%20media%20items%20by%20x0.5.lua</source>
+      <version name="1.0.0" author="AEHAZE Scripts" time="2026-11-10T13:44:30Z">
+        <source main="main">https://github.com/thesoundsofasun/reaper-scripts/raw/fc12634ef85eb64dfa8682d5554169ec80e00d17/Items/Stretch%20selected%20media%20items%20by%20x2.lua</source>
       </version>
     </reapack>
   </category>
