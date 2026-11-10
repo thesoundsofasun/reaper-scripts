@@ -3,7 +3,7 @@
 -- @version 1.0.0
 -- @about
 --   This script doubles the length of the selected item and halves its playback speed.
---   Pitch is preserved if "Preserve Pitch" is enabled in Item Properties
+--   Pitch is preserved if "Preserve Pitch" is enabled in Item Propertiess
 
 reaper.Undo_BeginBlock()
 
