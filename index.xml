@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="AEHAZE Scripts" commit="9e7f50d01ca87f88510b39208a0e2ca741f838f3">
+<index version="1" name="AEHAZE Scripts" commit="aebcada276f744e06f1b5dbd66f689c415bb0708">
+  <category name="Extensions">
+    <reapack name="reaper_RKES-x64.ext" type="extension" desc="RKES - Reaper Keyboard Enhancement Scripts for Linux">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 RKES provides JUCE vst plugin focus fixes on Linux while using keyboard, also has has features like exclusive arm and solo and ability to switch between Ableton and Reaper keyboard layouts when playing on Virtual MIDI Keyboard.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0.0" author="AEHAZE Scripts" time="2026-11-10T14:07:47Z">
+        <source platform="linux64" file="reaper_RKES-x64.so">https://github.com/thesoundsofasun/reaper-scripts/raw/aebcada276f744e06f1b5dbd66f689c415bb0708/Extensions/reaper_RKES-x64.so</source>
+      </version>
+    </reapack>
+  </category>
   <category name="Items">
     <reapack name="Stretch selected media items by x0.5.lua" type="script" desc="Stretch selected media items by x0.5">
       <metadata>
