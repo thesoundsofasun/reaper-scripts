@@ -1,9 +1,9 @@
--- @description Stretch selected media items by x0.5.lua
+-- @description Stretch selected media items by x0.5
 -- @author AEHAZE Scripts
 -- @version 1.0.0
 -- @about
 --   This script halves the length of the selected item and doubles its playback speed.
---   Pitch is preserved if "Preserve Pitch" is enabled in Item Propertiess
+--   Pitch is preserved if "Preserve Pitch" is enabled in Item Properties
 
 reaper.Undo_BeginBlock()
 
