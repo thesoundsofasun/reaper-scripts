@@ -1,0 +1,6 @@
+-- @description RKES - Reaper Keyboard Enhancement Scripts for Linux
+-- @author AEHAZE Scripts
+-- @version 1.0.0
+-- @provides reaper_RKES-x64.so
+-- @about
+--   RKES provides JUCE vst plugin focus fixes on Linux while using keyboard, also has has features like exclusive arm and solo and ability to switch between Ableton and Reaper keyboard layouts when playing on Virtual MIDI Keyboard.
