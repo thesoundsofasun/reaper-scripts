@@ -1,4 +1,4 @@
--- @description STRETCH ITEM (HALF LENGTH / DOUBLE SPEED)
+-- @description Stretch selected media items by x0.5.lua
 -- @author AEHAZE Scripts
 -- @version 1.0.0
 -- @about
