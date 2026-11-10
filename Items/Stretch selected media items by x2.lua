@@ -1,9 +1,9 @@
--- @description STRETCH ITEM (DOUBLE LENGTH / HALF SPEED)
+-- @description Stretch selected media items by x2
 -- @author AEHAZE Scripts
 -- @version 1.0.0
 -- @about
 --   This script doubles the length of the selected item and halves its playback speed.
---   Pitch is preserved if "Preserve Pitch" is enabled in Item Propertiess
+--   Pitch is preserved if "Preserve Pitch" is enabled in Item Propertie
 
 reaper.Undo_BeginBlock()
 
